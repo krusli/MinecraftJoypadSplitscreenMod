@@ -19,7 +19,8 @@ allprojects {
    }
 
 
-version = "1.12-14.21.0.2322"
+//version = "1.12-14.21.0.2322"
+version = "1.12.2-14.23.5.2838"
 group = "com.shiny.joypadmod"
 archivesBaseName = "JoypadMod"
 
